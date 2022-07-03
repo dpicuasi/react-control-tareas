@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb0a886d.css",
-    "main.js": "/static/js/main.de4db34a.js",
-    "index.html": "/index.html",
-    "main.fb0a886d.css.map": "/static/css/main.fb0a886d.css.map",
-    "main.de4db34a.js.map": "/static/js/main.de4db34a.js.map"
+    "main.css": "/react-control-tareas/static/css/main.fb0a886d.css",
+    "main.js": "/react-control-tareas/static/js/main.de4db34a.js",
+    "index.html": "/react-control-tareas/index.html",
+    "main.fb0a886d.css.map": "/react-control-tareas/static/css/main.fb0a886d.css.map",
+    "main.de4db34a.js.map": "/react-control-tareas/static/js/main.de4db34a.js.map"
   },
   "entrypoints": [
     "static/css/main.fb0a886d.css",
